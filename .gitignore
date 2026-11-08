@@ -1,0 +1,6 @@
+# Archivos temporales de Excel (se crean mientras el archivo está abierto)
+~$*
+*.tmp
+# Archivos de sistema de Windows
+Thumbs.db
+desktop.ini
